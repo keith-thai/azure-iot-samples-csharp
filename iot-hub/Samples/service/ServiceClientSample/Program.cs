@@ -1,6 +1,6 @@
 ﻿// Copyright (c) Microsoft. All rights reserved.
 // Licensed under the MIT license. See LICENSE file in the project root for full license information.
-
+// KTT - 1/6/2021 => committed from local to GitHub to ADO Pipeline
 using CommandLine;
 using Microsoft.Azure.Devices.Logging;
 using Microsoft.Extensions.Logging;

@@ -10,6 +10,7 @@ using Microsoft.Azure.Devices.Samples.Common;
 
 namespace Microsoft.Azure.Devices.Client.Samples
 {
+    /*
     public class DeviceStreamSample
     {
         private readonly DeviceClient _deviceClient;
@@ -58,4 +59,5 @@ namespace Microsoft.Azure.Devices.Client.Samples
             }
         }
     }
+    */
 }
