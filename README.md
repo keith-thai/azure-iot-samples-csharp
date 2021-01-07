@@ -1,3 +1,4 @@
+### KTT - 1/6/2021 => Committed from VS2019 to GitHub & Build on ADO
 ---
 page_type: sample
 description: "A set of easy-to-understand, continuously-tested samples for connecting to Azure IoT Hub."
